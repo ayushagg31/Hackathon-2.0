@@ -95,3 +95,12 @@ suyashgargsfam@gmail.com
 
 https://github.com/Code-AI/code-ai
 
+
+## 11. Brewing Vision
+
+(Karan Guleri, Ayush Aggarwal, Tarun Pratap Singh)
+
+karanguleri.kd@gmail.com
+
+https://github.com/KDSG/Magical_music_instruments
+
